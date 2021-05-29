@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a006a5b13bee914b86beb00d7ecbb85
+timeCreated: 1493463810
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - puente: {fileID: 1500091656904242, guid: 10666329c6a009d4a981c244b8ae6480, type: 2}
+  - camino: {fileID: 1638321750847634, guid: 5548f0f32d7b7e34d9ff707e5f7b9756, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
